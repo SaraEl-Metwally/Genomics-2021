@@ -132,7 +132,23 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
               <td> 
               <ul>
                 <li> <a href="FCI_MI_03_Genomics_Week-10_SaraElMetwally_Lec.pdf"> <b> Lecture 10 </b></a> </li>
-                <li> <a href=""> <b> Lecture 10 Video </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=V27TtUL2ivU"> <b> Lecture 10 Video Part 1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=H-vkYN0G_UQ"> <b> Lecture 10 Video Part 2 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=NcjIV_y-pKg"> <b> Lecture 10 Video Part 3 </b></a> </li>
+                </ul>
+            </td>
+              </tr>
+  
+    <tr>
+            <td> 11 </td>
+            <td> <ul>  
+                     <li> What is Bioinformatics. </li>
+                 </ul>
+              </td>
+              <td> 
+              <ul>
+                <li> <a href="https://www.youtube.com/watch?v=dqeAoQcR9fg"> <b> Working with BWA Aligner </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=z50qR9_OEsk"> <b> Working with samtools </b></a> </li>
                 </ul>
             </td>
               </tr>
