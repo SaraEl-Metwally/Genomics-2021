@@ -53,7 +53,7 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
               </td>
               <td> 
               <ul>
-                <li> <a href="FCI_MI_03_Genomics_Week-04_SaraElMetwally_Lec.pdf"> <b> Lecture 4 </b></a> </li>
+                <li> <a href="FCI_MI_03_Genomics_Week-04_Final_SaraElMetwally_Lec.pdf"> <b> Lecture 4 </b></a> </li>
                 <li> <a href=""> <b> Lecture 4 Video </b></a> </li>
                 </ul>
             </td>
@@ -66,7 +66,7 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
               </td>
               <td> 
               <ul>
-                <li> <a href="FCI_MI_03_Genomics_Week-04_SaraElMetwally_Lec.pdf"> <b> Lecture 5 </b></a> </li>
+                <li> <a href="FCI_MI_03_Genomics_Week-04_Final_SaraElMetwally_Lec.pdf"> <b> Lecture 5 </b></a> </li>
                 <li> <a href=""> <b> Lecture 5 Video </b></a> </li>
                 </ul>
             </td>
