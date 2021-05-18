@@ -138,18 +138,18 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
                 </ul>
             </td>
               </tr>
-  
     <tr>
             <td> 11 </td>
-            <td> <ul>  
+            <td> 
+                 <ul>  
                      <li> What is Bioinformatics. </li>
                  </ul>
               </td>
               <td> 
-              <ul>
+                <ul>
                 <li> <a href="https://www.youtube.com/watch?v=dqeAoQcR9fg"> <b> Working with BWA Aligner </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=z50qR9_OEsk"> <b> Working with samtools </b></a> </li>
                 </ul>
             </td>
-              </tr>
+             </tr>
           </table>
