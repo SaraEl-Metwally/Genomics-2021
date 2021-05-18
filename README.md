@@ -93,7 +93,8 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
               <td> 
               <ul>
                 <li> <a href="FCI_MI_03_Genomics_Week-06_07_SaraElMetwally_Lec.pdf"> <b> Lecture 7 </b></a> </li>
-                <li> <a href=""> <b> Lecture 7 Video </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=22M2vpE057U"> <b> Lecture 7 Video Part 1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=bJDa74ksPBs"> <b> Lecture 7 Video Part 2 </b></a> </li>
                 </ul>
             </td>
               </tr>
@@ -106,7 +107,7 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
               <td> 
               <ul>
                 <li> <a href="FCI_MI_03_Genomics_Week-08_SaraElMetwally_Lec.pdf"> <b> Lecture 8 </b></a> </li>
-                <li> <a href=""> <b> Lecture 8 Video </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=3S2RUGqhIQU"> <b> Lecture 8 Video </b></a> </li>
                 </ul>
             </td>
               </tr>
@@ -119,7 +120,9 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
               <td> 
               <ul>
                 <li> <a href="FCI_MI_03_Genomics_Week-09_SaraElMetwally_Lec.pdf"> <b> Lecture 9 </b></a> </li>
-                <li> <a href=""> <b> Lecture 9 Video </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=jbPQ_6KAofE"> <b> Lecture 9 Video Part 1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=KYHYwI9np34"> <b> Lecture 9 Video Part 2 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=UlrVBZkJquA"> <b> Lecture 9 Video Part 3 </b></a> </li>
                 </ul>
             </td>
               </tr>
