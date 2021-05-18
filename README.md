@@ -9,7 +9,16 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
         <tr>
             <td> 1 </td>
             <td> <ul>  
-                     <li> What is Bioinformatics. </li>
+                     <li> Course Outlines. </li>
+                     <li> A Typical Genomics Analysis Workflow. </li>
+                     <li> Alignment is central to most genomic research. </li>
+                     <li> Sequence mapping versus alignment. </li>
+                     <li> Reference based analysis mapping and challenges.</li>
+                     <li> Mapping Quality. <li>
+                     <li> Sequence alignment/Mapping software. <li>
+                     <li> Typical Mapping/Alignment Workflow. <li> 
+              
+              
                  </ul>
               </td>
               <td> 
@@ -22,7 +31,9 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
           <tr>
             <td> 2 </td>
             <td> <ul>  
-                     <li> What is Bioinformatics. </li>
+                     <li> Typical Mapping/Alignment Workflow. </li>
+                     <li> Hash-based mapping approach. </li>
+                     <li> Hash-based mapping approach drawbacks. </li>
                  </ul>
               </td>
               <td> 
