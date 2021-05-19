@@ -65,8 +65,6 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
                      <li> Rev. of Suffix Array & BWT. </li>
                      <li> Relation of Suffix Array to BWT. </li>
                      <li> How to use BWT to find the pattern in Genome. </li>
-                     <li> What is FM-index. </li>
-                     <li> How to use FM-index to resolve the query problem over BWT. </li>
                  </ul>
               </td>
               <td> 
@@ -79,7 +77,8 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
    <tr>
             <td> 5 </td>
             <td> <ul>  
-                     <li> What is Bioinformatics. </li>
+                     <li> What is FM-index. </li>
+                     <li> How to use FM-index to resolve the query problem over BWT. </li>
                  </ul>
               </td>
               <td> 
@@ -92,13 +91,16 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
    <tr>
             <td> 6 </td>
             <td> <ul>  
-                     <li> What is Bioinformatics. </li>
+                     <li> BWA-MEM Aligner Workflow. </li>
+                     <li> Introduction to SAM/BAM Format. </li>
+                     <li> SAM/BAM headers. </li>
                  </ul>
               </td>
               <td> 
               <ul>
                 <li> <a href="FCI_MI_03_Genomics_Week-06_07_SaraElMetwally_Lec.pdf"> <b> Lecture 6 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=Mqu6QQsiQD4"> <b> Lecture 6 Video </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=dqeAoQcR9fg"> <b> Working with BWA Aligner </b></a> </li>
                 </ul>
             </td>
               </tr>
@@ -113,6 +115,7 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
                 <li> <a href="FCI_MI_03_Genomics_Week-06_07_SaraElMetwally_Lec.pdf"> <b> Lecture 7 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=22M2vpE057U"> <b> Lecture 7 Video Part 1 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=bJDa74ksPBs"> <b> Lecture 7 Video Part 2 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=z50qR9_OEsk"> <b> Working with samtools </b></a> </li>
                 </ul>
             </td>
               </tr>
@@ -159,18 +162,4 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
                 </ul>
             </td>
               </tr>
-    <tr>
-            <td> 11 </td>
-            <td> 
-                 <ul>  
-                     <li> What is Bioinformatics. </li>
-                 </ul>
-              </td>
-              <td> 
-                <ul>
-                <li> <a href="https://www.youtube.com/watch?v=dqeAoQcR9fg"> <b> Working with BWA Aligner </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=z50qR9_OEsk"> <b> Working with samtools </b></a> </li>
-                </ul>
-            </td>
-             </tr>
           </table>
