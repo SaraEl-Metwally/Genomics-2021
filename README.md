@@ -44,7 +44,12 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
    <tr>
             <td> 3 </td>
             <td> <ul>  
-                     <li> What is Bioinformatics. </li>
+                     <li> Suffix Array. </li>
+                     <li> How to build a Suffix array for a reference genome. </li>
+                     <li> How to use Suffix array to search for a pattern in a reference genome. </li>
+                     <li> Advantages/Disadvantages of Suffix array based approach. </li>
+                     <li> What is Burrows Wheeler Transform, BWT. </li>
+                     <li> How to build a BWT for a reference genome. </li>
                  </ul>
               </td>
               <td> 
@@ -57,7 +62,11 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
    <tr>
             <td> 4 </td>
             <td> <ul>  
-                     <li> What is Bioinformatics. </li>
+                     <li> Rev. of Suffix Array & BWT. </li>
+                     <li> Relation of Suffix Array to BWT. </li>
+                     <li> How to use BWT to find the pattern in Genome. </li>
+                     <li> What is FM-index. </li>
+                     <li> How to use FM-index to resolve the query problem over BWT. </li>
                  </ul>
               </td>
               <td> 
