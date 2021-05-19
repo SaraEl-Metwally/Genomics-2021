@@ -107,7 +107,10 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
       <tr>
             <td> 7 </td>
             <td> <ul>  
-                     <li> What is Bioinformatics. </li>
+                     <li> Continue with SAM/BAM format. </li>
+                     <li> SAM/BAM flag field. </li>
+                     <li> SAM/BAM cigar field. </li>
+                     <li> SAM/BAM MD tag.  </li>
                  </ul>
               </td>
               <td> 
@@ -122,7 +125,13 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
    <tr>
             <td> 8 </td>
             <td> <ul>  
-                     <li> What is Bioinformatics. </li>
+                     <li> Basics of Genetics Variations. </li>
+                     <li> homozygous vs. heterozygous. </li>
+                     <li> What is genetic variation? </li>
+                     <li> Types of genetic variation. </li>
+                     <li> SNPs vs. SNVs. </li>
+                     <li> Classes of SVs. </li>
+                     <li> What is CNVs </li>
                  </ul>
               </td>
               <td> 
