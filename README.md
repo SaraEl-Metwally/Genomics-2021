@@ -144,7 +144,7 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
            <tr>
             <td> 9 </td>
             <td> <ul>  
-                     <li> What is Bioinformatics. </li>
+                     <li> Detecting Genetic Variations Basics. </li>
                  </ul>
               </td>
               <td> 
@@ -159,7 +159,16 @@ Genomics course (MED-145) for 3rd year students, Program of Medical Informatics,
         <tr>
             <td> 10 </td>
             <td> <ul>  
-                     <li> What is Bioinformatics. </li>
+                     <li> Somatic cells Vs. Germ cells. </li>
+                     <li> Genetic Alleles. </li>
+                     <li> What is haplotypes. </li>
+                     <li> Genotype vs. Allele frequency. </li>
+                     <li> Hardy-Weinberg equation. </li>
+                     <li> What information is needed to decide if a variant exists? </li>
+                     <li> SNP detection Pipeline. </li>
+                     <li> Bayes theorem. </li>
+                     <li> Bayesian SNP calling. </li>
+                     <li> Examples of SNP calling software. </li>
                  </ul>
               </td>
               <td> 
